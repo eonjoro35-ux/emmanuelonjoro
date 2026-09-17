@@ -427,7 +427,7 @@ export function HomePage() {
                                     className="relative overflow-hidden rounded-[2rem] border border-black/10 bg-[#211714] shadow-xl shadow-sky-900/10"
                                 >
                                     <img
-                                        src="/images/manu.png"
+                                        src={`${import.meta.env.BASE_URL}images/manu.png`}
                                         alt="Emmanuel Onjoro"
                                         className="h-[23rem] w-full object-cover object-center grayscale-[10%] transition duration-700 hover:scale-105"
                                     />
