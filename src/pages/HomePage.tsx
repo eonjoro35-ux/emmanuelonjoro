@@ -319,7 +319,7 @@ export function HomePage() {
                                         className="relative z-10 h-[350px] w-[245px] overflow-hidden rounded-[48%_48%_42%_42%] border border-orange-300/30 bg-[#2b201c] shadow-2xl shadow-black/40 sm:h-[410px] sm:w-[285px] lg:h-[420px] lg:w-[295px]"
                                     >
                                         <img
-                                            src="/images/manu.png"
+                                            src="public/images/manu.png"
                                             alt=""
                                             className="h-full w-full object-cover object-center grayscale-[10%] transition duration-1000 hover:scale-105"
                                         />
@@ -427,7 +427,7 @@ export function HomePage() {
                                     className="relative overflow-hidden rounded-[2rem] border border-black/10 bg-[#211714] shadow-xl shadow-sky-900/10"
                                 >
                                     <img
-                                        src="/images/manu.png"
+                                        src="public/images/manu.png"
                                         alt="Emmanuel Onjoro"
                                         className="h-[23rem] w-full object-cover object-center grayscale-[10%] transition duration-700 hover:scale-105"
                                     />

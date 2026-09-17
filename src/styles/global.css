@@ -811,7 +811,7 @@ html.dark .contact-form textarea::placeholder {
 .logo-mark {
     position: relative;
     display: grid;
-    width: 42px;
+    width: 100px;
     height: 42px;
     place-items: center;
     overflow: hidden;

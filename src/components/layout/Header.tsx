@@ -78,14 +78,14 @@ export function Header() {
                         onClick={() => setMenuOpen(false)}
                     >
                         <span className="logo-mark" aria-hidden="true">
-                            <span className="logo-mark__core">E</span>
+                            <span className="logo-mark__core">E. Onjoro</span>
                             <span className="logo-mark__bar logo-mark__bar--one" />
                             <span className="logo-mark__bar logo-mark__bar--two" />
                             <span className="logo-mark__bar logo-mark__bar--three" />
                         </span>
 
                         <span className="logo-name" aria-label="E. Onjoro">
-                            <span className="logo-name__base">E. Onjoro</span>
+                            <span className="logo-name__base"></span>
                             <span className="logo-name__liquid" aria-hidden="true">E. Onjoro</span>
                         </span>
                     </a>
