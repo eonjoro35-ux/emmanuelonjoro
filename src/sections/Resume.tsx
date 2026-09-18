@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { SectionHeading } from "../components/ui/SectionHeading";
-import { certifications, education, experience, profile } from "../data/site";
+import { certifications, education, experience } from "../data/site";
 
 /**
  * Condensed CV: experience, education and certifications only.

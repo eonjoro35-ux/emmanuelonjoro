@@ -177,7 +177,7 @@ export function HomePage() {
 
     return (
         <div className="min-h-screen overflow-hidden bg-sky-50 text-black">
-            <Header />
+            <Header activeSection="home" />
 
             <main>
                 {/* HERO */}
